@@ -43,7 +43,7 @@ mybatis:
 spring:
   profiles: prod
   application:
-    name: microservice-product-bus
+    name: microservice-product
 
   datasource:
     type: com.alibaba.druid.pool.DruidDataSource
